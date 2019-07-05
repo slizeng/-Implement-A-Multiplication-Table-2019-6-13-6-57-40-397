@@ -50,15 +50,15 @@ output：
 999*999=998001
 999*1000=999000 1000*1000=1000000
 ```
-###AC3
+### AC3
 - **Given**: two integer numbers `2` and `1`
 - **When**: create a multiply table
 - **Then**: should return `null`
-###AC4
+### AC4
 - **Given**: two integer numbers `0` and `1`
 - **When**: create a multiply table
 - **Then**: should return `null`
-###AC5
+### AC5
 - **Given**: two integer numbers `1000` and `1001`
 - **When**: create a multiply table
 - **Then**: should return `null`
