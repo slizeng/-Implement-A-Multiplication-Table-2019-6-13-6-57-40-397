@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60f21aa3-65ea-4240-b0ab-e5e44bee0573" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplicationTableService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__test__/multiplicationTableServiceTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__test__/multiplicationTableServiceTest.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiplicationTableService.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__test__/multiplicationTableServiceTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,26 +20,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/__test__/multiplicationTableServiceTest.js">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__test__/multiplicationTableServiceTest.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="930">
+              <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MultiplicationTableService.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="510">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -45,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/TASKING.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1500">
-                <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+              <first_editor relative-caret-position="451">
+                <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -60,6 +58,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -69,20 +72,14 @@
         <option value="$PROJECT_DIR$/TASKING.md" />
         <option value="$PROJECT_DIR$/MultiplicationTableService.js" />
         <option value="$PROJECT_DIR$/__test__/multiplicationTableServiceTest.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/babel.config.js" />
+        <option value="$PROJECT_DIR$/__test__/multiplicationTableServiceTest.spec.js" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -92,29 +89,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397" type="b2602c69:ProjectViewProjectNode" />
-              <item name="-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397" type="b2602c69:ProjectViewProjectNode" />
-              <item name="-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397" type="462c0819:PsiDirectoryNode" />
-              <item name="__test__" type="462c0819:PsiDirectoryNode" />
+              <item name="Implement-A-Multiplication-Table-2019-6-13-6-57-40-397" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Implement-A-Multiplication-Table-2019-6-13-6-57-40-397" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="CONST" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -141,7 +135,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.practice-1-1.should return multiply table when create multiply table given input integer 999 and 1000">
+    <configuration name="practice-1-1" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__test__/multiplicationTableServiceTest.spec.js" />
+      <test-names>
+        <test-name value="practice-1-1" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="practice-1-1.should return multiply table when create multiply table given input integer 999 and 1000" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/multiplicationTableServiceTest.spec.js" />
+      <test-names>
+        <test-name value="practice-1-1" />
+        <test-name value="should return multiply table when create multiply table given input integer 999 and 1000" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="practice-1-1.should return null when create multiply table given input integer 2 and 1" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/multiplicationTableServiceTest.js" />
+      <test-names>
+        <test-name value="practice-1-1" />
+        <test-name value="should return null when create multiply table given input integer 2 and 1" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="should add two numbers" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -155,9 +190,26 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="should return null when create multiply table given input integer 2 and 1" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/multiplicationTableServiceTest.js" />
+      <test-names>
+        <test-name value="should return null when create multiply table given input integer 2 and 1" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.practice-1-1.should return multiply table when create multiply table given input integer 999 and 1000" />
+        <item itemvalue="Jest.practice-1-1" />
         <item itemvalue="Jest.should add two numbers" />
+        <item itemvalue="Jest.practice-1-1.should return null when create multiply table given input integer 2 and 1" />
+        <item itemvalue="Jest.should return null when create multiply table given input integer 2 and 1" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +226,8 @@
       <workItem from="1562317411731" duration="1949000" />
       <workItem from="1562319578538" duration="57000" />
       <workItem from="1562319641135" duration="49000" />
+      <workItem from="1562508571068" duration="1685000" />
+      <workItem from="1562511119002" duration="3461000" />
     </task>
     <task id="LOCAL-00001" summary="Chaowei: add tasking diagram, method tasking, test cases tasking.">
       <created>1562318746267</created>
@@ -193,21 +247,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="should_add_two_numbers - 2019.07.05 at 17h 40m 48s.xml">
-      <configuration name="should add two numbers" configurationId="JavaScriptTestRunnerJest" />
+    <history-entry file="practice-1-1 - 2019.07.07 at 23h 04m 20s.xml">
+      <configuration name="practice-1-1" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
-    <history-entry file="should_add_two_numbers - 2019.07.05 at 17h 41m 24s.xml">
-      <configuration name="should add two numbers" configurationId="JavaScriptTestRunnerJest" />
+    <history-entry file="practice-1-1 - 2019.07.07 at 23h 08m 13s.xml">
+      <configuration name="practice-1-1" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="practice-1-1 - 2019.07.07 at 23h 10m 29s.xml">
+      <configuration name="practice-1-1" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="practice-1-1 - 2019.07.07 at 23h 39m 40s.xml">
+      <configuration name="practice-1-1" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="practice-1-1 - 2019.07.07 at 23h 40m 13s.xml">
+      <configuration name="practice-1-1" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="practice-1-1 - 2019.07.07 at 23h 41m 27s.xml">
+      <configuration name="practice-1-1" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="practice-1-1 - 2019.07.07 at 23h 42m 30s.xml">
+      <configuration name="practice-1-1" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="practice-1-1 - 2019.07.07 at 23h 45m 33s.xml">
+      <configuration name="practice-1-1" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="practice-1-1_should_return_multiply_table_when_create_multiply_table_given_input_integer_999_and_1000 - 2019.07.07 at 23h 46m 23s.xml">
+      <configuration name="practice-1-1.should return multiply table when create multiply table given input integer 999 and 1000" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="practice-1-1_should_return_multiply_table_when_create_multiply_table_given_input_integer_999_and_1000 - 2019.07.07 at 23h 46m 41s.xml">
+      <configuration name="practice-1-1.should return multiply table when create multiply table given input integer 999 and 1000" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2055000" />
+    <option name="totallyTimeSpent" value="7201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15689866" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16257995" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -216,7 +294,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -235,6 +313,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,33 +325,60 @@
     <option name="LAST_COMMIT_MESSAGE" value="Chaowei: add spaces to fix md." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MultiplicationTableService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TASKING.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1500">
-            <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TASK_DIAGRAM_3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/multiplicationTableServiceTest.js">
+    <entry file="file://$PROJECT_DIR$/__test__/multiplicationTableServiceTest.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="930">
+          <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TASKING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="451">
+            <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
